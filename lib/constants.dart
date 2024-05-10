@@ -1,3 +1,5 @@
+import 'package:exam_sem4_dart/model/order.dart';
+
 enum Currency{
   USD,
   EUR,
@@ -12,5 +14,5 @@ class Constants {
     {"item": "A4000","itemName": "Iphone 15","price": 1800,"currency":"USD","quantity":16},
     ];
 
-
+  
 }
